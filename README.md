@@ -1,6 +1,6 @@
-# zoom
+# We MEET
 
-A new Flutter application.
+A Video Conferencing app with firebase Firestore as Backend and with Jitsi Meet plugin.
 
 ## Getting Started
 
